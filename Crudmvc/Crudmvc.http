@@ -1,0 +1,6 @@
+//@Crudmvc_HostAddress = http://localhost:5001
+
+//GET {{Crudmvc_HostAddress}}/weatherforecast/
+//Accept: application/json
+
+###
